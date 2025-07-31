@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20views&color=0e75b6&style=flat" alt="vjsharan" /> </p>
 
-# Some stuff bout me :
+# Some stuff bout me dawg:
 - 🔭 I’m currently working on **Building backend tools and full-stack applications using Python, Django, and Node.js. I’m also prototyping NLP systems like fake news detection using Scikit-learn and NLTK.**
 
 - 🌱 I’m currently learning **LangGraph, open-source LLM deployment, and TensorFlow-based GenAI pipelines. Also deepening my understanding of networks and distributed systems.**
@@ -18,11 +18,11 @@
 
 - 📫 How to reach me **11224.vijaysharan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19n95JDRHQPzd9NCxmF4UcyveNmiOOGc4/view?usp=sharing](https://drive.google.com/file/d/19n95JDRHQPzd9NCxmF4UcyveNmiOOGc4/view?usp=sharing)
+- 📄 My resume 👉 [https://drive.google.com/file/d/19n95JDRHQPzd9NCxmF4UcyveNmiOOGc4/view?usp=sharing](https://drive.google.com/file/d/19n95JDRHQPzd9NCxmF4UcyveNmiOOGc4/view?usp=sharing)
 
 - ⚡ Fun fact **about me is that I thrive on internet meme culture and reaction images**
 
-# Connect wid me dawg 🔗
+# My socials or smth 🔗
 <p align="left">
 <a href="https://twitter.com/vjdoestuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vjdoestuff" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vijaysharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaysharan" height="30" width="40" /></a>

@@ -2,8 +2,8 @@
 <h3 align="center">👋 Hi there! I’m Vijay, A passionate full stack and open‑source coder from Chennai, India. I love building full‑stack apps, exploring about GenAI and Web3. I’ve led workshops, mentored peers, and helped grow the tech community. I’m always learning, experimenting, and shipping code so let's build something impactful together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20views&color=0e75b6&style=flat" alt="vjsharan" /> </p>
-# This is me bruv : 
 
+# Some stuff bout me :
 - 🔭 I’m currently working on **Building backend tools and full-stack applications using Python, Django, and Node.js. I’m also prototyping NLP systems like fake news detection using Scikit-learn and NLTK.**
 
 - 🌱 I’m currently learning **LangGraph, open-source LLM deployment, and TensorFlow-based GenAI pipelines. Also deepening my understanding of networks and distributed systems.**

@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **11224.vijaysharan@gmail.com**
 
-- 📄 My resume 👉 tinyurl.com/vijaysharanresume
+- 📄 My resume 👉 [tinyurl.com/vijaysharanresume]
 
 - ⚡ Fun fact **about me is that I thrive on internet meme culture and reaction images**
 

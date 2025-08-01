@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **LangGraph, open-source LLM deployment, and TensorFlow-based GenAI pipelines. Also deepening my understanding of networks and distributed systems.**
 
-- 👯 I’m looking to collaborate on **Open-source AI/ML projects, hackathon teams, or backend-heavy systems where I can contribute to Python and JavaScript stacks.**
+- 👯 I’m looking to collaborate on **Open-source AI/ML, full stack and web3 projects, and also join you on any hackathon.**
 
 - 🤝 I’m looking for help with **Advanced LLM fine-tuning, deploying multi-agent systems like CrewAI, and scaling backend architectures for real-time apps.**
 

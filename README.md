@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Advanced LLM fine-tuning, deploying multi-agent systems like CrewAI, and scaling backend architectures for real-time apps.**
 
-- 👨‍💻 All of my projects are available here 👉 [https://github.com/VJsharan?tab=repositories](https://github.com/VJsharan?tab=repositories)
+- 👨‍💻 All of my projects are available here 👉 [github.com/VJsharan](https://github.com/VJsharan?tab=repositories)
 
 - 💬 Ask me about **anything tbh, I don't really mind :)**
 

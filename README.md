@@ -104,7 +104,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # 📊 Some of my github stats dawg :
-![](https://github-readme-stats.vercel.app/api?username=vjsharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vjsharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=vjsharan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vjsharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

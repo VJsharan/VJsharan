@@ -20,7 +20,7 @@
 
 - 📄 [My Resume](https://tinyurl.com/vijaysharanresume)
 
-- ⚡ Fun fact **about me is that I thrive on internet meme culture and reaction images**
+- ⚡ Fun fact **about me is that I thrive on internet meme culture and reaction images, so if you fw that then you're already my homie**
 
 # My socials or smth 🔗
 <p align="left">

@@ -1,14 +1,23 @@
-<h1 align="center">Hi👋, I'm Vijay Sharan</h1>
-<h3 align="center">👋 Hi there! I’m Vijay, a full-stack developer from India who enjoys building web apps and working with open-source projects. I’m currently exploring generative AI and Web3 technologies. I’ve led workshops, mentored peers, and stayed active in the tech community. I’m always learning, experimenting, and shipping code — let’s build something impactful together! 🚀</h3>
+<h1 align="center">Hi, I’m Vijay Sharan</h1>
+<h3 align="center">Full-stack developer and open source enthusiast from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20views&color=0e75b6&style=flat" alt="vjsharan" /> </p>
+I’ve learned mostly by building projects, watching some of the best developers on YouTube, and participating in hackathons. I’m passionate about AI/ML, full-stack development, and automation, with a focus on practical solutions that solve real problems. I’m a strong believer in open knowledge and free software culture. When I’m not coding, I’m probably binging my favorite sitcoms.
 
-# Some stuff about me:
-- 🔭 I’m currently working on **building backend tools and full-stack applications using Python, Django, and Node.js. I’m also prototyping NLP projects like fake news detection using Scikit-learn and NLTK.**
-- 🌱 I’m currently learning **about open-source LLM deployment, AI pipelines with TensorFlow, and deepening my understanding of distributed systems and networks.**
-- 👯 I’m looking to collaborate on **open-source AI/ML, full-stack web, and Web3 projects, and I’m always up for hackathons.**
-- 🤝 I’m looking for help with **advanced LLM fine-tuning, deploying multi-agent systems, and scaling backend architectures for real-time applications.**
+Right now, I’m exploring multi-agent systems, generative AI, and web3 technologies.
 
+# A snapshot of what I do:
+
+- 🔭 Recently, I built DevPulse — a scalable developer activity dashboard with real-time analytics and AI-driven insights using TypeScript, React, and Node.js.
+
+- 🔭 I created an AI-powered Budget Manager as both a desktop and web app during my internship at InternPro, focused on real-time expense tracking and smart financial insights.
+ 
+- 🔭 I’ve worked on projects like BloodyQuiz — a multiplayer quiz platform — and GailTrackr, a hackathon-winning cross-platform attendance app integrating AI and blockchain.
+
+-🌱 I’m continuously learning about AI model deployment, language models, and distributed systems.
+
+- 👯 I’m open to collaborating on projects involving AI, full-stack web development, blockchain, and hackathons.
+
+- 🤝 I’m looking to connect with folks experienced in AI model tuning, multi-agent systems, and scalable backend architectures.
 
 - 👨‍💻 All of my projects are available here 👉 [github.com/VJsharan](https://github.com/VJsharan?tab=repositories)
 

@@ -1,16 +1,14 @@
 <h1 align="center">Hi👋, I'm Vijay Sharan</h1>
-<h3 align="center">👋 Hi there! I’m Vijay, A passionate full stack and open‑source coder from Chennai, India. I love building full‑stack apps, exploring about GenAI and Web3. I’ve led workshops, mentored peers, and helped grow the tech community. I’m always learning, experimenting, and shipping code so let's build something impactful together! 🚀</h3>
+<h3 align="center">👋 Hi there! I’m Vijay, a full-stack developer from India who enjoys building web apps and working with open-source projects. I’m currently exploring generative AI and Web3 technologies. I’ve led workshops, mentored peers, and stayed active in the tech community. I’m always learning, experimenting, and shipping code — let’s build something impactful together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20views&color=0e75b6&style=flat" alt="vjsharan" /> </p>
 
-# Some stuff bout me dawg:
-- 🔭 I’m currently working on **Building backend tools and full-stack applications using Python, Django, and Node.js. I’m also prototyping NLP systems like fake news detection using Scikit-learn and NLTK.**
+# Some stuff about me:
+- 🔭 I’m currently working on **building backend tools and full-stack applications using Python, Django, and Node.js. I’m also prototyping NLP projects like fake news detection using Scikit-learn and NLTK.**
+- 🌱 I’m currently learning **about open-source LLM deployment, AI pipelines with TensorFlow, and deepening my understanding of distributed systems and networks.**
+- 👯 I’m looking to collaborate on **open-source AI/ML, full-stack web, and Web3 projects, and I’m always up for hackathons.**
+- 🤝 I’m looking for help with **advanced LLM fine-tuning, deploying multi-agent systems, and scaling backend architectures for real-time applications.**
 
-- 🌱 I’m currently learning **LangGraph, open-source LLM deployment, and TensorFlow-based GenAI pipelines. Also deepening my understanding of networks and distributed systems.**
-
-- 👯 I’m looking to collaborate on **Open-source AI/ML, full stack and web3 projects, and also join you on any hackathon.**
-
-- 🤝 I’m looking for help with **Advanced LLM fine-tuning, deploying multi-agent systems like CrewAI, and scaling backend architectures for real-time apps.**
 
 - 👨‍💻 All of my projects are available here 👉 [github.com/VJsharan](https://github.com/VJsharan?tab=repositories)
 

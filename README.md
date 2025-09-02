@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Vijay Sharan</h1>
 <h3 align="center">
-Hi there! I’m Vijay, a passionate full-stack developer and open-source enthusiast from Chennai, India. I enjoy building full-stack web apps and exploring emerging technologies like generative AI and Web3. I’ve led workshops, mentored peers, and actively contributed to growing the tech community. I’m always learning, experimenting, and shipping code — let’s build something impactful together! 🚀
+Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast from India. I enjoy building full-stack web apps and exploring emerging technologies like generative AI and Web3. I’ve led workshops, mentored peers, and actively contributed to growing the tech community. I’m always learning, experimenting, and shipping code — let’s build something impactful together! 🚀
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20views&color=0e75b6&style=flat" alt="vjsharan" /> </p>

@@ -7,7 +7,7 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
 
 # What I’m working on and learning:
 
-- 🔭 Currently building backend tools and full-stack applications using Python, Django, and Node.js. Also prototyping NLP projects like fake news detection using Scikit-learn and NLTK.
+- 🔭 Currently building backend tools and full-stack applications using Python, Django, and Node.js. Doing some ai/ml on the side as well.
 
 - 🌱 Expanding my skills with LangGraph, large language model deployment, and TensorFlow-based generative AI pipelines, while deepening knowledge of networks and distributed systems.
 

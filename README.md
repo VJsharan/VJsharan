@@ -103,7 +103,6 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
 
 ### 🗂️ Language & Contribution Breakdown
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vjsharan&theme=dark&layout=compact&hide_border=false&count_private=true" width="48%" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vjsharan&theme=dark" width="48%" alt="Commit Language Analysis" />
 </p>
 

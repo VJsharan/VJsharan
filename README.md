@@ -101,10 +101,10 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
 ### 🔥 My Top Repos & Stats
 [![Top Repos](https://github-readme-stats.vercel.app/api?username=vjsharan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vjsharan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+### 📊 Activity & Skills
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjsharan&layout=compact&theme=radical&hide_border=true&hide=markdown,html,css" alt="vjsharan" />
-</p>
+[![Commit Snake](https://github-readme-activity-graph.vercel.app/graph?username=vjsharan&theme=gruvbox&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-[![Visit Count](https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20views&color=1&style=flat)](https://github.com/gayanvoice/github-profile-readme-generator)
+**💻 Coding Stats** (via Wakatime—add your API key at wakatime.com for personalization)
+```svg
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vjsharan" alt="WakaTime" />

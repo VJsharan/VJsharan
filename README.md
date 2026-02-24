@@ -102,10 +102,10 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjsharan&theme=dark&hide_border=false" width="48.5%" alt="GitHub Streak" />
 </p>
 
-### 🗂️ Language & Contribution Breakdown
+### <b style="color:red">🗂️ Language &</b> <b style="color:white">Contribution Breakdown</b>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vjsharan&theme=dark&border_radius=10" width="60%" alt="Commit Language Analysis" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vjsharan&theme=2077&title_color=ff0000" width="60%" alt="Commit Language Analysis" />
+</p>>
 
 ### 🗓️ Annual Activity Cycle
 <p align="center">

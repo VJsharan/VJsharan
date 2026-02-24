@@ -102,16 +102,13 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjsharan&theme=dark&hide_border=false" width="48.5%" alt="GitHub Streak" />
 </p>
 
-### <b style="color:red">🗂️ Language &</b> <b style="color:white">Contribution Breakdown</b>
+### 🗂️ Language & Contribution Breakdown
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vjsharan&theme=2077&title_color=ff0000" width="60%" alt="Commit Language Analysis" />
-</p>>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vjsharan&theme=apprentice" width="60%" alt="Commit Language Analysis" />
+</p>
 
 ### 🗓️ Annual Activity Cycle
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vjsharan&theme=react-dark&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vjsharan&theme=nord_dark" width="100%" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vjsharan/vjsharan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>

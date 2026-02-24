@@ -94,7 +94,6 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 # 📊 Some of my github stats dawg :
-# 📊 Dev Analytics & Insights
 
 ### ⚡ Performance Metrics
 <p align="center">

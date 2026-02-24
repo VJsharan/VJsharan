@@ -99,7 +99,8 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vjsharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔥 My Top Repos & Stats
-[![Top Repos](https://github-readme-stats.vercel.app/api?username=vjsharan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
+
 
 ### 📊 Activity & Skills
 

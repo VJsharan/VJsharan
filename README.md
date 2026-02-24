@@ -94,16 +94,25 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 # 📊 Some of my github stats dawg :
-![](https://github-readme-stats.vercel.app/api?username=vjsharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=vjsharan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vjsharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 Dev Analytics & Insights
 
-### 🔥 My Top Repos & Stats
-[GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
+### ⚡ Performance Metrics
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vjsharan&show_icons=true&theme=dark&hide_border=false&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjsharan&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
+</p>
 
+### 🗂️ Language & Contribution Breakdown
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vjsharan&theme=dark&layout=compact&hide_border=false&count_private=true" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vjsharan&theme=dark" width="48%" alt="Commit Language Analysis" />
+</p>
 
-### 📊 Activity & Skills
+### 🗓️ Annual Activity Cycle
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vjsharan&theme=react-dark&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+</p>
 
-[![Commit Snake](https://github-readme-activity-graph.vercel.app/graph?username=vjsharan&theme=gruvbox&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vjsharan&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vjsharan/vjsharan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>

@@ -96,19 +96,20 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
 # 📊 Some of my github stats dawg :
 
 ### ⚡ Performance Metrics
-<p align="center" style="padding:10px">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=vjsharan&show_icons=true&theme=dark&hide_border=false&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjsharan&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=vjsharan&show_icons=true&theme=dark&hide_border=false&count_private=true" width="48.5%" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjsharan&theme=dark&hide_border=false" width="48.5%" />
 </p>
 
 ### 🗂️ Language & Contribution Breakdown
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vjsharan&theme=dark" width="48%" alt="Commit Language Analysis" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vjsharan&theme=dark&layout=donut&hide_border=false&count_private=true" width="60%" alt="Top Languages Donut Chart" />
 </p>
 
 ### 🗓️ Annual Activity Cycle
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vjsharan&theme=react-dark&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vjsharan&theme=react-dark&area=true&hide_border=false" width="100%" />
 </p>
 
 <p align="center">

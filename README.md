@@ -96,7 +96,7 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
 # 📊 Some of my github stats dawg :
 
 ### ⚡ Performance Metrics
-<p align="center">
+<p align="center" style="padding:10px">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=vjsharan&show_icons=true&theme=dark&hide_border=false&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjsharan&theme=dark&hide_border=false" width="48%" alt="GitHub Streak" />
 </p>

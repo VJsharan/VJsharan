@@ -1,20 +1,20 @@
 <h1 align="center">Hi👋, I'm Vijay Sharan</h1>
 <h3 align="center">
-Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast from India. I enjoy building full-stack web apps and exploring emerging technologies like generative AI and Web3. I’ve led workshops, mentored peers, and actively contributed to growing the tech community. I’m always learning, experimenting, and shipping code — let’s build something impactful together! 🚀
+Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast from India. I enjoy building full-stack web apps and exploring emerging technologies like generative AI and Web3. I’ve led workshops, mentored peers, and actively contributed to growing the tech community. I'm currently learning, experimenting, and building stuffs! 🚀
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20views&color=0e75b6&style=flat" alt="vjsharan" /> </p>
 
-# What I’m working on and learning:
+# What I'm working on and learning
 
-- 🔭 Currently building backend tools and full-stack applications using Python, Django, and Node.js. Doing some ai/ml on the side as well.
+- 🔭 Currently building full-stack apps and AI tools with React, TypeScript, Node.js, Python (Pandas/NumPy), Supabase, Gemini/ChatGPT APIs. Recent work: TrustCheckr-AI (fact-checking), Hackumi (hackathon platform), DevPulse (dev analytics).
 
-- 🌱 Expanding my skills with LangGraph, large language model deployment, and TensorFlow-based generative AI pipelines, while deepening knowledge of networks and distributed systems.
+- 🌱 Expanding skills in TensorFlow, LLM deployment, LangGraph, Docker, PostgreSQL RLS, real-time GitHub API integrations, and distributed systems.
 
-- 👯 Interested in collaborating on open-source AI/ML projects, hackathon teams, or backend-heavy systems leveraging Python and JavaScript.
- 
-- 🤝 Looking for guidance on advanced LLM fine-tuning, deploying multi-agent systems like CrewAI, and scaling backend architectures for real-time applications
+- 👯 Interested in collaborating on open-source AI/ML, hackathons, or backend systems with TypeScript/Python stacks, TailwindCSS, and shadcn/ui.
 
+- 🤝 Seeking guidance/roles in LLM fine-tuning, multi-agent systems (CrewAI), scaling real-time apps, and GenAI pipelines.
+  
 - 👨‍💻 All of my projects are available here 👉 [github.com/VJsharan](https://github.com/VJsharan?tab=repositories)
 
 - 💬 Ask me about **anything tbh, I don't really mind :)**

@@ -105,6 +105,4 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
 
 [![Commit Snake](https://github-readme-activity-graph.vercel.app/graph?username=vjsharan&theme=gruvbox&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-**💻 Coding Stats** (via Wakatime—add your API key at wakatime.com for personalization)
-```svg
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vjsharan" alt="WakaTime" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vjsharan&show_icons=true&theme=radical)

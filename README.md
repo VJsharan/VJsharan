@@ -98,12 +98,13 @@ Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast fr
 ![](https://nirzak-streak-stats.vercel.app/?user=vjsharan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vjsharan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vjsharan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔥 My Top Repos & Stats
+[![Top Repos](https://github-readme-stats.vercel.app/api?username=vjsharan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
-[![](https://visitcount.itsvg.in/api?id=vjsharan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vjsharan&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjsharan&layout=compact&theme=radical&hide_border=true&hide=markdown,html,css" alt="vjsharan" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vjsharan&show_icons=true&locale=en&layout=compact" alt="vjsharan" /></p>
+[![Visit Count](https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20views&color=1&style=flat)](https://github.com/gayanvoice/github-profile-readme-generator)

@@ -170,3 +170,7 @@ A full-stack hackathon management platform with secure data handling.
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vjsharan&theme=nord_dark" width="100%" alt="Profile Details" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>

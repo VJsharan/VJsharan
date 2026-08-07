@@ -1,99 +1,158 @@
-<h1 align="center">Hi👋, I'm Vijay Sharan</h1>
-<h3 align="center">
-Hi there! I’m Vijay, a passionate full-stack developer and an ai enthusiast from India. I enjoy building full-stack web apps and exploring emerging technologies like generative AI and Web3. I’ve led workshops, mentored peers, and actively contributed to growing the tech community. I'm currently learning, experimenting, and building stuffs! 🚀
-</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Vijay%20Sharan&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff&descAlign=50" alt="Header Wave" width="100%" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Computer+Science+Graduate)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Science-Meenakshi%20College-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge" />
+<img src="https://img.shields.io/badge/Location-Chennai,%20India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+
+<br/>
+
+<a href="https://vijaysharan.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-View%20Work-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/vijaysharan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:11224.vijaysharan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/VJsharan"><img src="https://img.shields.io/badge/GitHub-Profile-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/vjsharan?label=Followers&style=for-the-badge&color=9370DB" alt="Followers" />
+<img src="https://img.shields.io/github/stars/vjsharan?style=for-the-badge&color=A855F7" alt="Stars" />
+
+</div>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20views&color=0e75b6&style=flat" alt="vjsharan" /> </p>
 
-# What I'm working on and learning
+---
 
-- 🔭 Currently building full-stack apps and AI tools with React, TypeScript, Node.js, Python (Pandas/NumPy), Supabase, Gemini/ChatGPT APIs. Recent work: TrustCheckr-AI (fact-checking), Hackumi (hackathon platform), DevPulse (dev analytics).
+## 🚀 About Me
+```
+name        : Vijay Sharan
+role        : CS Graduate & Web Developer
+location    : Chennai, India
+education   : B.E. Computer Science
+building    : Full-stack web apps and exploring practical AI pipelines
+open_to     : Entry-level roles in SDE, full-stack, and AI
+community   : Developer Lead @FFDG Chennai, Ex-VP CodeKrafters CLub
+```
+I'm a recent computer science student and developer focused on building functional, production-ready web applications. I mostly work with React on the frontend and Node.js or Python on the backend. Recently, I've been experimenting with LLM integrations and data pipelines to see how they can solve practical problems. During my tenure, I helped run my university's tech club and mentored some of my peers in web dev / prompt engg and CS in general. Other than tech, my interests involve playing badminton and watching sitcoms :)
 
-- 🌱 Expanding skills in TensorFlow, LLM deployment, LangGraph, Docker, PostgreSQL RLS, real-time GitHub API integrations, and distributed systems.
+<br/>
 
-- 👯 Interested in collaborating on open-source AI/ML, hackathons, or backend systems with TypeScript/Python stacks, TailwindCSS, and shadcn/ui.
+---
 
-- 🤝 Seeking guidance/roles in LLM fine-tuning, multi-agent systems (CrewAI), scaling real-time apps, and GenAI pipelines.
-  
-- 👨‍💻 All of my projects are available here 👉 [github.com/VJsharan](https://github.com/VJsharan?tab=repositories)
+## 🛠️ Tech Stack
 
-- 💬 Ask me about **anything tbh, I don't really mind :)**
+<div align="center">
 
-- 📫 How to reach me **11224.vijaysharan@gmail.com**
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,java,html,css" alt="Languages" />
 
-- 📄 [My Resume](https://tinyurl.com/vijaysharanresume)
+### Frontend & UI
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma" alt="Frontend" />
 
-- ⚡ Fun fact **about me is that I thrive on internet meme culture and reaction images, so if you fw that then you're already my homie**
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgres,mysql,supabase" alt="Backend" />
 
-# My socials or smth 🔗
-<p align="left">
-<a href="https://twitter.com/vjdoestuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vjdoestuff" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vijaysharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaysharan" height="30" width="40" /></a>
-<a href="https://medium.com/@11224.vijaysharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@11224.vijaysharan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itzvijaysharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itzvijaysharan" height="30" width="40" /></a>
+### Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=docker,gcp,azure,vercel,netlify,git,github" alt="DevOps" />
+
+</div>
+
+<br/>
+
+
+## My Socials :) 
+<p align="center">
+  <a href="mailto:11224.vijaysharan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-11224.vijaysharan-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/vijaysharan">
+    <img src="https://img.shields.io/badge/LinkedIn-vijaysharan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/VJsharan">
+    <img src="https://img.shields.io/badge/GitHub-VJsharan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@11224.vijaysharan">
+    <img src="https://img.shields.io/badge/Medium-@11224.vijaysharan-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://tinyurl.com/vjsde">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-6C3483?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
-# 💻 Dis is what I kinda know vro :
-### 🖥️ Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 💻 Featured Projects
+
+<details>
+<summary><b>📊 DevPulse v3.0</b></summary>
+<br/>
+An AI-powered GitHub analytics dashboard serving real-time insights to developers.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Vanilla JS, HTML/CSS | 50K+ User Capacity | 90+ Lighthouse | Client-Side Storage | Delivers developer personality & activity insights | [View Code](https://github.com/VJsharan) |
+
+*Designed and built a modular vanilla JavaScript analytics engine that implements an AI personality profiling system and real-time work pattern detection to identify peak coding hours.*
+</details>
+
+<details>
+<summary><b>📄 Resume Analyzer AI</b></summary>
+<br/>
+An NLP system analyzing resumes with high accuracy using TF-IDF vectors.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| React, FastAPI, scikit-learn | 2,500+ Skills DB | < 3 Second Parsing | PDF Sanitization | Parses and scores resumes across 50 job roles | [View Code](https://github.com/VJsharan) |
+
+*Architected a FastAPI backend utilizing PyMuPDF for PDF parsing and an NLP system using TF-IDF and cosine similarity for actionable skill-gap analysis.*
+</details>
+
+<details>
+<summary><b>🔍 TrustCheckr-AI</b></summary>
+<br/>
+An AI-powered tool designed to combat digital misinformation and evaluate content credibility.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| React, Gemini 2.5 Pro | Real-time Analysis | Session Rate Limiting | Protected Keys | Combats misinformation | [View Code](https://github.com/VJsharan) |
+
+*Status: MVP / Prototype (Did not advance to final round, but served as a key learning milestone). Integrated the Gemini API for credibility scoring and source verification with an interactive educational interface.*
+</details>
+
+<details>
+<summary><b>🩸 BloodBuddy</b></summary>
+<br/>
+A GPS-integrated mobile ecosystem built for emergency blood donation routing.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| React Native, Firebase | City-wide Network | Real-time Location | Encrypted Data | Direct-to-Receiver links | [View Code](https://github.com/VJsharan) |
+
+*Developed a mobile ecosystem designed for emergency blood donation matching and logistics. BloodBuddy is a small step of mine... bloodbuddy itself is saving lives one drop of a blood at a time.*
+</details>
+
+<details>
+<summary><b>⚙️ JD-TO-CV & Causal-Loop Agent</b></summary>
+<br/>
+A full-stack resume tailoring tool and an AI-powered codebase auditor.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| FastAPI, Playwright, Node | NPM Distributed | High-Speed Parsing | Local Execution | Automation tools | [View Code](https://github.com/VJsharan) |
+
+*Built JD-TO-CV to generate ATS-optimized documents in under 8 seconds. Developed and published `@vjsharan/causal-loop-agent` to NPM, delivering an autonomous 6-module AI agent that audits codebases.*
+</details>
+
+<br/>
 
 ---
-
-### 🌐 Frontend & UI
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-### ⚙️ Backend / Server Tools
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-
----
-
-### ☁️ Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 🧠 Machine Learning / Data Science
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-
----
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
----
-
-### 🧪 Tools & Utilities
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-
-# 📊 Some of my github stats dawg :
+# 📊 Some of my github stats:
 
 ### ⚡ Performance Metrics
 <p align="center">

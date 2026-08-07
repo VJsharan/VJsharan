@@ -90,63 +90,63 @@ I'm a recent computer science student and developer focused on building function
 # 💻 Featured Projects
 
 <details>
-<summary><b>📊 DevPulse v3.0</b></summary>
+<summary><b>📄 Resume Analyzer & Career Coach</b></summary>
 <br/>
-An AI-powered GitHub analytics dashboard serving real-time insights to developers.
+My final year academic project: an NLP-based system to analyze and score resumes.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Vanilla JS, HTML/CSS | 50K+ User Capacity | 90+ Lighthouse | Client-Side Storage | Delivers developer personality & activity insights | [View Code](https://github.com/VJsharan) |
+| Context | Stack | Key Focus | Repository |
+| :--- | :--- | :--- | :--- |
+| Final Year Project | Python, Scikit-learn, FastAPI | Scores resumes across 50 roles and 2,500+ skills in < 3 seconds | [View Code](https://github.com/VJsharan) |
 
-*Designed and built a modular vanilla JavaScript analytics engine that implements an AI personality profiling system and real-time work pattern detection to identify peak coding hours.*
+*Built an NLP pipeline using TF-IDF vectorization and cosine similarity to map skill gaps and provide actionable feedback for job seekers.*
 </details>
 
 <details>
-<summary><b>📄 Resume Analyzer AI</b></summary>
+<summary><b>🛠️ JD-TO-CV</b></summary>
 <br/>
-An NLP system analyzing resumes with high accuracy using TF-IDF vectors.
+A side project I built to automate and simplify my own job search.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| React, FastAPI, scikit-learn | 2,500+ Skills DB | < 3 Second Parsing | PDF Sanitization | Parses and scores resumes across 50 job roles | [View Code](https://github.com/VJsharan) |
+| Context | Stack | Key Focus | Repository |
+| :--- | :--- | :--- | :--- |
+| Side Project | FastAPI, Gemini 2.5 Flash, Playwright | Generates ATS-optimized documents in under 8 seconds | [View Code](https://github.com/VJsharan) |
 
-*Architected a FastAPI backend utilizing PyMuPDF for PDF parsing and an NLP system using TF-IDF and cosine similarity for actionable skill-gap analysis.*
+*A full-stack resume tailoring tool that parses job descriptions and restructures existing CVs to match the specific role requirements.*
+</details>
+
+<details>
+<summary><b>⚙️ Causal-Loop Agent</b></summary>
+<br/>
+An AI-powered codebase auditor built during a hackathon and published to NPM.
+
+| Context | Stack | Key Focus | Repository |
+| :--- | :--- | :--- | :--- |
+| Hackathon Project | Node.js, NPM, LLM APIs | Autonomous 6-module AI agent | [View Code](https://github.com/VJsharan) |
+
+*Created and published `@vjsharan/causal-loop-agent` to automate codebase analysis and identify structural issues using an agentic framework.*
 </details>
 
 <details>
 <summary><b>🔍 TrustCheckr-AI</b></summary>
 <br/>
-An AI-powered tool designed to combat digital misinformation and evaluate content credibility.
+A tool aimed at evaluating content credibility to combat digital misinformation.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| React, Gemini 2.5 Pro | Real-time Analysis | Session Rate Limiting | Protected Keys | Combats misinformation | [View Code](https://github.com/VJsharan) |
+| Context | Stack | Key Focus | Repository |
+| :--- | :--- | :--- | :--- |
+| Hackathon Project | React, Gemini API | Credibility scoring and source verification | [View Code](https://github.com/VJsharan) |
 
-*Status: MVP / Prototype (Did not advance to final round, but served as a key learning milestone). Integrated the Gemini API for credibility scoring and source verification with an interactive educational interface.*
+*Status: MVP / Prototype (Did not advance to final round, but served as a key learning milestone). Integrated LLMs to verify claims against trusted sources.*
 </details>
 
 <details>
-<summary><b>🩸 BloodBuddy</b></summary>
+<summary><b>🏆 Hackumi</b></summary>
 <br/>
-A GPS-integrated mobile ecosystem built for emergency blood donation routing.
+A full-stack hackathon management platform with secure data handling.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| React Native, Firebase | City-wide Network | Real-time Location | Encrypted Data | Direct-to-Receiver links | [View Code](https://github.com/VJsharan) |
+| Context | Stack | Key Focus | Repository |
+| :--- | :--- | :--- | :--- |
+| Community Tool | PostgreSQL, React, Node.js | Database security and multi-tenant scaling | [View Code](https://github.com/VJsharan) |
 
-*Developed a mobile ecosystem designed for emergency blood donation matching and logistics. BloodBuddy is a small step of mine... bloodbuddy itself is saving lives one drop of a blood at a time.*
-</details>
-
-<details>
-<summary><b>⚙️ JD-TO-CV & Causal-Loop Agent</b></summary>
-<br/>
-A full-stack resume tailoring tool and an AI-powered codebase auditor.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| FastAPI, Playwright, Node | NPM Distributed | High-Speed Parsing | Local Execution | Automation tools | [View Code](https://github.com/VJsharan) |
-
-*Built JD-TO-CV to generate ATS-optimized documents in under 8 seconds. Developed and published `@vjsharan/causal-loop-agent` to NPM, delivering an autonomous 6-module AI agent that audits codebases.*
+*Built to handle event registrations and participant submissions, implementing PostgreSQL Row-Level Security (RLS) policies for strict privacy and data isolation.*
 </details>
 
 <br/>

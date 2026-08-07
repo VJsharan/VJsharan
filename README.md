@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 ```
 name        : Vijay Sharan
 role        : CS Graduate & Web Developer
@@ -43,7 +43,7 @@ I'm a recent computer science student and developer focused on building function
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -87,7 +87,7 @@ I'm a recent computer science student and developer focused on building function
   </a>
 </p>
 
-## 💻 Featured Projects
+# 💻 Featured Projects
 
 <details>
 <summary><b>📊 DevPulse v3.0</b></summary>

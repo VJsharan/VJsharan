@@ -96,7 +96,7 @@ My final year academic project: an NLP-based system to analyze and score resumes
 
 | Context | Stack | Key Focus | Repository |
 | :--- | :--- | :--- | :--- |
-| Final Year Project | Python, Scikit-learn, FastAPI | Scores resumes across 50 roles and 2,500+ skills in < 3 seconds | [View Code](https://github.com/VJsharan) |
+| Final Year Project | Python, Scikit-learn, FastAPI | Scores resumes across 50 roles and 2,500+ skills in < 3 seconds | [View Code](https://github.com/VJsharan/resume-analyzer-ai) |
 
 *Built an NLP pipeline using TF-IDF vectorization and cosine similarity to map skill gaps and provide actionable feedback for job seekers.*
 </details>
@@ -108,7 +108,7 @@ A side project I built to automate and simplify my own job search.
 
 | Context | Stack | Key Focus | Repository |
 | :--- | :--- | :--- | :--- |
-| Side Project | FastAPI, Gemini 2.5 Flash, Playwright | Generates ATS-optimized documents in under 8 seconds | [View Code](https://github.com/VJsharan) |
+| Side Project | FastAPI, Gemini 2.5 Flash, Playwright | Generates ATS-optimized documents in under 8 seconds | [Link to the Repo](https://github.com/VJsharan/jd-to-resume) |
 
 *A full-stack resume tailoring tool that parses job descriptions and restructures existing CVs to match the specific role requirements.*
 </details>
@@ -118,9 +118,9 @@ A side project I built to automate and simplify my own job search.
 <br/>
 An AI-powered codebase auditor built during a hackathon and published to NPM.
 
-| Context | Stack | Key Focus | Repository |
-| :--- | :--- | :--- | :--- |
-| Hackathon Project | Node.js, NPM, LLM APIs | Autonomous 6-module AI agent | [View Code](https://github.com/VJsharan) |
+| Context | Stack | Key Focus | Repository | NPM Package |
+| :--- | :--- | :--- | :--- | :--- |
+| Hackathon Project | Node.js, NPM, LLM APIs | Autonomous 6-module AI agent | [View Code](https://github.com/VJsharan/causal-loop-agent) | [Link to NPM](https://www.npmjs.com/package/@vjsharan/causal-loop-agent) |
 
 *Created and published `@vjsharan/causal-loop-agent` to automate codebase analysis and identify structural issues using an agentic framework.*
 </details>
@@ -132,7 +132,7 @@ A tool aimed at evaluating content credibility to combat digital misinformation.
 
 | Context | Stack | Key Focus | Repository |
 | :--- | :--- | :--- | :--- |
-| Hackathon Project | React, Gemini API | Credibility scoring and source verification | [View Code](https://github.com/VJsharan) |
+| Hackathon Project | React, Gemini API | Credibility scoring and source verification | [View Code](https://github.com/VJsharan/trustcheckr-ai) |
 
 *Status: MVP / Prototype (Did not advance to final round, but served as a key learning milestone). Integrated LLMs to verify claims against trusted sources.*
 </details>
@@ -144,7 +144,7 @@ A full-stack hackathon management platform with secure data handling.
 
 | Context | Stack | Key Focus | Repository |
 | :--- | :--- | :--- | :--- |
-| Community Tool | PostgreSQL, React, Node.js | Database security and multi-tenant scaling | [View Code](https://github.com/VJsharan) |
+| Community Tool | PostgreSQL, React, Node.js | Database security and multi-tenant scaling | [View Code](https://github.com/Navinnaz/Hackumi) |
 
 *Built to handle event registrations and participant submissions, implementing PostgreSQL Row-Level Security (RLS) policies for strict privacy and data isolation.*
 </details>

@@ -17,8 +17,6 @@
 <a href="https://linkedin.com/in/vijaysharan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:11224.vijaysharan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/VJsharan"><img src="https://img.shields.io/badge/GitHub-Profile-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=vjsharan&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/vjsharan?label=Followers&style=for-the-badge&color=9370DB" alt="Followers" />
 <img src="https://img.shields.io/github/stars/vjsharan?style=for-the-badge&color=A855F7" alt="Stars" />
 
 </div>
